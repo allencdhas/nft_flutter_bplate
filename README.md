@@ -1,6 +1,6 @@
 # nft_flutter_bplate
 
-A new Flutter project.
+Flutter Boiler plate for NFT collection.
 
 ## Getting Started
 
